@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tesztak</title>
+    <link rel="stylesheet" href="tesztak.css">
+</head>
+<body>
+    <h1>Tészták</h1>
+    <h2>Bolognai</h2>
+    <img src="bolognai.png" alt="bolognai">
+    <h2>
+        Mac N' Chees
+    </h2>
+    <img src="MacNChees.png">
+    <h3>
+       Milánói
+    </h3>
+    <img src="milanoi.png" alt="Milánói">
+</body>
+</html>
